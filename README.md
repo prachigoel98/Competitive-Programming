@@ -5,4 +5,4 @@ Solutions are coded using C++.
 | Question Link | Solution |
 | :-----------: |: -------:|
 | Almost all divisors | Solution |
-Table: this
+

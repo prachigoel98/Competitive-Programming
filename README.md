@@ -1,2 +1,11 @@
-# Competitive-Programming
-# im editting the code for example
+
+
+Solutions are coded using C++.
+
+<h2>MATH</h2>
+
+| Question Link | Solution |
+| -----------   | -------|
+| [Almost all divisors](https://codeforces.com/contest/1165/problem/D) | [Solution](https://github.com/prachigoel98/Competitive-Programming/blob/master/alldivisorssol) |
+
+
